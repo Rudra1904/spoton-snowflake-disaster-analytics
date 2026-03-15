@@ -150,7 +150,7 @@ This architecture enables:
 
 ---
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The Snowflake data warehouse is connected to Power BI using DirectQuery, enabling real-time visualization of incident trends, revenue impact, SLA breaches, and regional performance metrics.
 
