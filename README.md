@@ -149,3 +149,24 @@ This architecture enables:
 - Data quality validation framework  
 
 ---
+
+Power BI Dashboard
+
+The Snowflake data warehouse is connected to Power BI using DirectQuery, enabling real-time visualization of incident trends, revenue impact, SLA breaches, and regional performance metrics.
+
+Key Features:
+
+Executive KPI summary
+
+Daily incident and revenue trend analysis
+
+Regional performance comparison
+
+SLA breach monitoring
+
+Interactive filtering by Region and Severity
+
+---
+
+Dashboard Preview
+
