@@ -168,5 +168,3 @@ Interactive filtering by Region and Severity
 
 ---
 
-Dashboard Preview
-
