@@ -168,3 +168,8 @@ Interactive filtering by Region and Severity
 
 ---
 
+## Power BI Dashboard
+
+![Dashboard Preview](Dashboard/spoton-snowflake-disaster-analytics.png)
+
+---
